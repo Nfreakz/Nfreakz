@@ -2,42 +2,43 @@
 
 # Neo RS
 
-**Independent Software Developer · Desktop Apps · Automation · Digital Tools**
+**Desktop applications · Automation · Digital projects**
 
-Building practical software for developers, creators and communities.
+I'm Dani, based in Girona, Spain. I build and experiment with practical software, learning through real projects.
 
-[Explore NRS Workbench](https://github.com/Nfreakz/nrs-workbench) · [See published downloads](https://github.com/Nfreakz/nrs-workbench/releases)
+[Explore my work](#projects) · [NRS Workbench downloads](https://github.com/Nfreakz/nrs-workbench/releases)
 
 </div>
 
-## About me
+## About
 
-I'm Dani, an independent developer based in Girona, Spain. I build desktop applications, local-first tools and digital projects focused on real workflows: managing development environments, running services on personal hardware, and creating useful software for communities.
+**Neo RS** is my personal developer identity. I also participate in **[CECO Lab](https://cecolab.cat/)**, the technology area of the non-profit cooperative CECO Les Pedreres. Each project retains its own ownership and licensing.
 
-**Neo RS** is my personal developer identity. I am also involved in **CECO Lab**, the technology area of the non-profit cooperative CECO Les Pedreres. The two identities are connected through my work, but ownership and licensing depend on each individual project.
+## Projects
 
-## Featured public project
+### [NRS Workbench](https://github.com/Nfreakz/nrs-workbench) · Public preview
 
-### [NRS Workbench](https://github.com/Nfreakz/nrs-workbench)
+A Windows desktop tool for managing local Git repositories and GitHub Actions self-hosted runners. It brings runner activity, local job history, host resource monitoring and guarded Git actions into one interface.
 
-A local Windows desktop application for managing Git repositories and GitHub Actions self-hosted runners.
+<p align="center">
+  <a href="https://github.com/Nfreakz/nrs-workbench">
+    <img src="https://raw.githubusercontent.com/Nfreakz/nrs-workbench/main/docs/images/nrs-workbench-v0.18.0-redacted.png" alt="NRS Workbench desktop interface, with private information redacted" width="760" />
+  </a>
+</p>
 
-- Inspect runner status, activity and locally retained job history.
-- Monitor host resources and review local Git working trees.
-- Use guarded repository actions and manage runners from one interface.
-- Choose between English and Spanish in the application.
+<sub>Screenshot: v0.18.0. Features in the source code may differ from those in the latest published download.</sub>
 
-**[Project & documentation](https://github.com/Nfreakz/nrs-workbench)** · **[Available Windows releases](https://github.com/Nfreakz/nrs-workbench/releases)**
+**[Project & documentation](https://github.com/Nfreakz/nrs-workbench)** · **[Windows downloads](https://github.com/Nfreakz/nrs-workbench/releases)**
 
-This is a **source-available** project under the PolyForm Noncommercial License. Commercial use requires separate permission. See the repository's [license and commercial-use policy](https://github.com/Nfreakz/nrs-workbench/blob/main/COMMERCIAL-LICENSING.md).
+The project is source-available under the PolyForm Noncommercial License. See its [licensing terms](https://github.com/Nfreakz/nrs-workbench/blob/main/COMMERCIAL-LICENSING.md).
 
-## Other work
+### Other projects
 
-| Project | Focus |
+| Project | What I'm building |
 | --- | --- |
 | **NeoRS Home Server** | Local server and application management. |
 | **Neo Radio Station** | Music, radio and podcast applications. |
 | **NeoRS Drive** | Local storage and drive management. |
 | **Grasscutters** | Applications and tools for sim racing communities. |
 
-These projects are at different stages of development. Their source code and downloads are not necessarily public.
+These projects are at different stages of development; their repositories and downloads are not necessarily public.
